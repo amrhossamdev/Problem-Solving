@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 //binary search to find the square root of any number to a certain precision.
+//https://codeforces.com/group/T3p02rhrmb/contest/343396/problem/T
 //Created By @amrhossamdev
 using namespace std;
 typedef long long ll;
